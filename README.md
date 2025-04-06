@@ -17,7 +17,7 @@ Hey there! I'm Rohit Kumar 👋<br>🚀 AI/ML Student | Open-Source Contributor 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkumar-ai" alt="rohitkumar-ai" /></a> </p>
 
 
-### ✍️ Random Dev Quote
+### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
